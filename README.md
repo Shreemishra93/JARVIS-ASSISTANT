@@ -38,7 +38,7 @@ pip install -r requirements.txt
 Edit `config/settings.env` with your keys:
 
 ```env
-OWNER_NAME=Shreesh
+OWNER_NAME=Your name
 OPENWEATHER_API_KEY=your_key_here
 NEWS_API_KEY=your_key_here
 TEAMWORK_SITE_NAME=yourcompany
